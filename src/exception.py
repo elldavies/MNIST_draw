@@ -1,5 +1,4 @@
 import sys
-from src.logger import logging
 
 ## Error message function 
 ## gives the error message, the scipt name and line of error

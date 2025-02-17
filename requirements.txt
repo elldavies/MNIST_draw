@@ -1,7 +1,4 @@
 pandas
 numpy
-sys
-logger
-datetime
-os
+scikit-learn
 -e .
